@@ -8,3 +8,5 @@ Key Objectives:
 - Identify peak demand periods and customer preferences for better resource planning.  
 - Provide both high-level summaries and detailed drill-through views for decision-making.  
 The goal is to improve **operational efficiency, pricing strategies, and customer satisfaction** through data-driven insights.
+
+The prject is inn the development phase and today i created data models 
