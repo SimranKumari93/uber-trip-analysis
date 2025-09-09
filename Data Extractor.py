@@ -7,4 +7,6 @@ df = pd.read_csv('data.csv')
 
 df.head()
 
-df.columns()
+df.columns() 
+
+# df = df[df[]]
