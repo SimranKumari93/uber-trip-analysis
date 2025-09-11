@@ -11,4 +11,3 @@ The goal is to improve **operational efficiency, pricing strategies, and custome
 
 The prject is in the development phase and today i created data models 
 
-## today also i have nothing to commit guys iam tired 
