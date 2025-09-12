@@ -11,3 +11,4 @@ The goal is to improve **operational efficiency, pricing strategies, and custome
 
 The prject is in the development phase and today i created data models 
 
+# trying to solve this problem statement but today i would like to take a break coz i have my google assessment tomorrow 
