@@ -12,3 +12,4 @@ The goal is to improve **operational efficiency, pricing strategies, and custome
 The project is in the development phase and today i created data models 
 
 aiyo nothing to commmit just tired okay chill weekend aa rha hai ache se padhna 
+padhai mann laga k karna hai
