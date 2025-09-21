@@ -10,7 +10,3 @@ Key Objectives:
 The goal is to improve **operational efficiency, pricing strategies, and customer satisfaction** through data-driven insights.
 
 The project is in the development phase and today i created data models 
-
-aiyo nothing to commmit just tired okay chill weekend aa rha hai ache se padhna 
-padhai mann laga k karna hai
-ab chlae thoda leetcode dekhne
