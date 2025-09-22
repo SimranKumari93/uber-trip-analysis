@@ -11,3 +11,4 @@ The goal is to improve **operational efficiency, pricing strategies, and custome
 
 The project is in the development phase, and today I created data models 
 Dashboard creation has started in Power BI
+Data Cleaning is done
