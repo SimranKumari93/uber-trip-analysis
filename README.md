@@ -9,6 +9,7 @@ Key Objectives:
 - Provide both high-level summaries and detailed drill-through views for decision-making.  
 The goal is to improve **operational efficiency, pricing strategies, and customer satisfaction** through data-driven insights.
 
-The project is in the development phase, and today I created data models 
-Dashboard creation has started in Power BI
-Data Cleaning is done
+- The project is in the development phase, and today I created data models 
+- Dashboard creation has started in Power BI
+- Data Cleaning is done
+- Trying to do churn analysis for this dataset , analyse the mitigation techniques 
