@@ -1,10 +1,10 @@
-# 🚖 Uber Trip Analysis Dashboard – Power BI
+# Uber Trip Analysis Dashboard – Power BI
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on building an **interactive Power BI dashboard** for Uber trip data to uncover trends, track performance, and support data-driven decision-making.  
 The dashboard helps stakeholders understand **ride patterns, customer behaviour, and operational efficiency** across multiple dimensions such as time, location, and payment methods.
 
-## 🎯 Objectives
+## Objectives
 - Monitor key KPIs — **Total Bookings, Revenue, Trip Distance, Trip Duration**
 - Identify **peak demand hours, locations, and vehicle types**
 - Analyse **customer and driver performance**
@@ -12,16 +12,16 @@ The dashboard helps stakeholders understand **ride patterns, customer behaviour,
 - Provide **drill-through reports** for deeper insights
 - Support **pricing strategy, fleet management, and customer satisfaction** decisions
 
-## ⚙️ Project Progress
+## Project Progress
 | Stage | Status | Description |
 |:--|:--|:--|
-| Data Cleaning | ✅ Completed | Removed duplicates, handled nulls, standardized date-time and category fields |
-| Data Modelling | ✅ Completed | Built star schema linking fact and dimension tables |
-| Dashboard Design | 🟡 In Progress | Visuals under development using Power BI |
-| Churn Analysis | 🟡 In Progress | Studying churn patterns, risk factors, and mitigation |
-| Risk Mitigation | 🟢 Ongoing | Exploring retention strategies like offers and loyalty programs |
+| Data Cleaning | Completed | Removed duplicates, handled nulls, standardized date-time and category fields |
+| Data Modelling | Completed | Built star schema linking fact and dimension tables |
+| Dashboard Design | In Progress | Visuals under development using Power BI |
+| Churn Analysis | In Progress | Studying churn patterns, risk factors, and mitigation |
+| Risk Mitigation | Ongoing | Exploring retention strategies like offers and loyalty programs |
 
-## 🔍 Churn Analysis Focus
+## Churn Analysis Focus
 - Identify customers with **reduced trip frequency or low engagement**
 - Evaluate churn factors — high fare, long wait times, low ratings
 - Assess **risk levels** across customer segments
