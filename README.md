@@ -1,22 +1,53 @@
-## Problem Statement
+# 🚖 Uber Trip Analysis Dashboard – Power BI
 
-This project aims to build an **Uber Trip Analysis Dashboard** using Power BI to help stakeholders gain actionable insights into ride patterns and performance.
+## 📌 Project Overview
+This project focuses on building an **interactive Power BI dashboard** for Uber trip data to uncover trends, track performance, and support data-driven decision-making.  
+The dashboard helps stakeholders understand **ride patterns, customer behaviour, and operational efficiency** across multiple dimensions such as time, location, and payment methods.
 
-Key Objectives:
-- Track KPIs like total bookings, revenue, trip distance, and trip duration.  
-- Analyse trends across time, locations, vehicle types, and payment methods.  
-- Identify peak demand periods and customer preferences for better resource planning.  
-- Provide both high-level summaries and detailed drill-through views for decision-making.  
-The goal is to improve **operational efficiency, pricing strategies, and customer satisfaction** through data-driven insights.
+## 🎯 Objectives
+- Monitor key KPIs — **Total Bookings, Revenue, Trip Distance, Trip Duration**
+- Identify **peak demand hours, locations, and vehicle types**
+- Analyse **customer and driver performance**
+- Perform **churn analysis** to detect potential customer loss
+- Provide **drill-through reports** for deeper insights
+- Support **pricing strategy, fleet management, and customer satisfaction** decisions
 
-- The project is in the development phase, and today I created data models 
-- Dashboard creation has started in Power BI
-- Data Cleaning is done
-- Trying to do churn analysis for this dataset, analyze the mitigation techniques, risk analysis, also how to prevent customer churn 
-⚙️ Project Progress
-Stage	Status	Description
-Data Cleaning	✅ Completed	Removed duplicates, handled nulls, standardized date-time and category fields
-Data Modelling	✅ Completed	Built star schema linking fact and dimension tables
-Dashboard Design	🟡 In Progress	Visuals under development using Power BI
-Churn Analysis	🟡 In Progress	Studying churn patterns, risk factors, and mitigation
-Risk Mitigation	🟢 Ongoing	Exploring retention strategies like offers and loyalty programs
+## ⚙️ Project Progress
+| Stage | Status | Description |
+|:--|:--|:--|
+| Data Cleaning | ✅ Completed | Removed duplicates, handled nulls, standardized date-time and category fields |
+| Data Modelling | ✅ Completed | Built star schema linking fact and dimension tables |
+| Dashboard Design | 🟡 In Progress | Visuals under development using Power BI |
+| Churn Analysis | 🟡 In Progress | Studying churn patterns, risk factors, and mitigation |
+| Risk Mitigation | 🟢 Ongoing | Exploring retention strategies like offers and loyalty programs |
+
+## 🔍 Churn Analysis Focus
+- Identify customers with **reduced trip frequency or low engagement**
+- Evaluate churn factors — high fare, long wait times, low ratings
+- Assess **risk levels** across customer segments
+- Recommend **preventive strategies:**
+  - Loyalty & rewards programs
+  - Personalized discounts
+  - Faster driver allocation
+  - Improved post-ride feedback handling
+
+## 📊 Key Insights (Expected)
+- Hourly, daily, and monthly **ride trend patterns**
+- **Revenue contribution** by city, payment mode, and vehicle type
+- Top-performing **drivers and routes**
+- **Customer retention vs churn rate**
+- **Operational bottlenecks** and improvement areas
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Dashboard & Visualization
+- **Power Query** – Data Cleaning & Transformation
+- **DAX** – KPI Metrics & Calculations
+- **Excel / SQL** – Data Preparation & Validation
+
+## 🚀 Next Steps
+- Add **forecasting and churn prediction visuals**
+- Publish dashboard to **Power BI Service**
+- Enable **drill-through pages** for driver & customer-level analytics
+- Enhance **interactive filters and tooltips**
+
+## 📁 Repository Structure
