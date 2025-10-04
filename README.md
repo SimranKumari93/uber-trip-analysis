@@ -51,3 +51,12 @@ The dashboard helps stakeholders understand **ride patterns, customer behaviour,
 - Enhance **interactive filters and tooltips**
 
 ## 📁 Repository Structure
+
+
+## 🧠 Learnings
+- Built a complete **data pipeline from raw data to insights**
+- Enhanced understanding of **data modeling and DAX**
+- Learned how to perform **churn and risk analysis** using BI tools
+
+✅ *This project is currently under development and will be updated with new visuals and insights.*
+
