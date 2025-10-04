@@ -31,32 +31,32 @@ The dashboard helps stakeholders understand **ride patterns, customer behaviour,
   - Faster driver allocation
   - Improved post-ride feedback handling
 
-## 📊 Key Insights (Expected)
+## Key Insights (Expected)
 - Hourly, daily, and monthly **ride trend patterns**
 - **Revenue contribution** by city, payment mode, and vehicle type
 - Top-performing **drivers and routes**
 - **Customer retention vs churn rate**
 - **Operational bottlenecks** and improvement areas
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **Power BI** – Dashboard & Visualization
 - **Power Query** – Data Cleaning & Transformation
 - **DAX** – KPI Metrics & Calculations
 - **Excel / SQL** – Data Preparation & Validation
 
-## 🚀 Next Steps
+## Next Steps
 - Add **forecasting and churn prediction visuals**
 - Publish dashboard to **Power BI Service**
 - Enable **drill-through pages** for driver & customer-level analytics
 - Enhance **interactive filters and tooltips**
 
-## 📁 Repository Structure
+## Repository Structure
 
 
-## 🧠 Learnings
+## Learnings
 - Built a complete **data pipeline from raw data to insights**
 - Enhanced understanding of **data modeling and DAX**
 - Learned how to perform **churn and risk analysis** using BI tools
 
-✅ *This project is currently under development and will be updated with new visuals and insights.*
+*This project is currently under development and will be updated with new visuals and insights.*
 
