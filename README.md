@@ -52,7 +52,7 @@ The dashboard helps stakeholders understand **ride patterns, customer behaviour,
 
 ## Repository Structure
 
-hello 
+hello hi 
 ## Learnings
 - Built a complete **data pipeline from raw data to insights**
 - Enhanced understanding of **data modeling and DAX**
